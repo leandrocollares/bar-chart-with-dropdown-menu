@@ -1,0 +1,21 @@
+statement_id,statement,anchor,answers
+1,"The interface was responsive to actions I initiated (or performed).",strongly agree,2
+1,"The interface was responsive to actions I initiated (or performed).",agree,5
+1,"The interface was responsive to actions I initiated (or performed).",disagree,10
+1,"The interface was responsive to actions I initiated (or performed).",strongly disagree,4
+2,"I was able to anticipate what would happen next in response to the actions I performed.",strongly agree,4
+2,"I was able to anticipate what would happen next in response to the actions I performed.",agree,7
+2,"I was able to anticipate what would happen next in response to the actions I performed.",disagree,3
+2,"I was able to anticipate what would happen next in response to the actions I performed.",strongly disagree,7
+3,"I would need more time to feel proficient in interacting with the interface.",strongly agree,12
+3,"I would need more time to feel proficient in interacting with the interface.",agree,3
+3,"I would need more time to feel proficient in interacting with the interface.",disagree,5
+3,"I would need more time to feel proficient in interacting with the interface.",strongly disagree,1
+4,"The interactions with the interface were natural.",strongly agree,3
+4,"The interactions with the interface were natural.",agree,8
+4,"The interactions with the interface were natural.",disagree,1
+4,"The interactions with the interface were natural.",strongly disagree,9
+5,"The visual aspects of the interface appealed to me.",strongly agree,8
+5,"The visual aspects of the interface appealed to me.",agree,4
+5,"The visual aspects of the interface appealed to me.",disagree,6
+5,"The visual aspects of the interface appealed to me.",strongly disagree,3

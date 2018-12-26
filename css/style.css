@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/open-sans-v15-latin-regular.woff2') format('woff2'),
+       url('../fonts/open-sans-v15-latin-regular.woff') format('woff'), 
+       url('../fonts/open-sans-v15-latin-regular.ttf') format('truetype'); 
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/open-sans-v15-latin-700.woff2') format('woff2'),
+       url('../fonts/open-sans-v15-latin-700.woff') format('woff'),
+       url('../fonts/open-sans-v15-latin-700.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333333;
+}
+
+#intro {
+  position: relative;
+  height: auto;
+  padding: 5px;
+  margin: 15px 0 15px 20px;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.5em;
+}
+
+.bar-label {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+   
